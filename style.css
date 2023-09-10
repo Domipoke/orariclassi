@@ -1,0 +1,110 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-indent: 0;
+}
+
+#orario h1 {
+    color: black;
+    font-family: Calibri, sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 7pt;
+}
+
+#orario p {
+    color: black;
+    font-family: Calibri, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    text-decoration: none;
+    font-size: 7pt;
+    margin: 0pt;
+}
+
+#orario .s1 {
+    color: black;
+    font-family: Calibri, sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 8pt;
+}
+
+#orario .s2 {
+    color: black;
+    font-family: Calibri, sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 7pt;
+}
+
+#orario .s3 {
+    color: black;
+    font-family: Calibri, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    text-decoration: none;
+    font-size: 7pt;
+}
+
+#orario .s4 {
+    color: black;
+    font-family: "Times New Roman", serif;
+    font-style: normal;
+    font-weight: normal;
+    text-decoration: none;
+    font-size: 6pt;
+}
+
+#orario .s5 {
+    color: black;
+    font-family: "Times New Roman", serif;
+    font-style: normal;
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 7pt;
+}
+
+#orario .s6 {
+    color: #FFF;
+    font-family: "Times New Roman", serif;
+    font-style: normal;
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 7pt;
+}
+
+#orario table,
+#orario tbody {
+    vertical-align: top;
+    overflow: visible;
+    user-select: none;
+}
+
+
+
+#result .classe {
+    margin-top: 30px;
+}
+
+#result table {
+    border: 1px solid black;
+    border-collapse: collapse;
+    margin-left: 10px;
+    text-align: center;
+    font-size: 16px;
+    /* line-height: 40px; */
+    user-select: none;
+}
+
+#result table th {
+    border: 1px solid black;
+}
+
+#result table td {
+    border: 1px solid black;
+    padding: 6px;
+}
